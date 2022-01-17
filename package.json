@@ -1,0 +1,27 @@
+{
+  "name": "server-mecprog-firebase",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Minerororu/Server-Mecprog-Firebase.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Minerororu/Server-Mecprog-Firebase/issues"
+  },
+  "homepage": "https://github.com/Minerororu/Server-Mecprog-Firebase#readme",
+  "dependencies": {
+    "body-parser": "^1.19.1",
+    "cors": "^2.8.5",
+    "express": "^4.17.2",
+    "firebase": "^9.6.1",
+    "firebase-admin": "^10.0.1"
+  }
+}
